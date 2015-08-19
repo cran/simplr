@@ -1,5 +1,5 @@
 Package: simplr
-Version: 0.1-0
+Version: 0.1-1
 Title: Basic Symbolic Expression Simplification
 Description: Basic tools for symbolic expression simplification, e.g. simplify(x*1) => x, or simplify(sin(x)^2+cos(x)^2) => 1. Based on the "Expression v3" (Ev3) 1.0 system by Leo Liberti.
 Authors@R: c(person("Oliver", "Flasch", role = c("aut", "cre"),
@@ -16,6 +16,6 @@ Depends: R (>= 3.0.0), utils
 Suggests: testthat
 Date: 2015-08-19
 NeedsCompilation: yes
-Packaged: 2015-08-19 07:20:36 UTC; oflasch
+Packaged: 2015-08-19 20:52:39 UTC; oflasch
 Repository: CRAN
-Date/Publication: 2015-08-19 13:32:14
+Date/Publication: 2015-08-20 00:31:35
